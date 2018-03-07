@@ -1,6 +1,3 @@
 iidiidi
-<<<<<<< HEAD
 我的
-=======
 asfasdfasdfasdf
->>>>>>> fac13ae4d4ac2efbb912421a7d46c3aed87697a9
